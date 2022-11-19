@@ -6,8 +6,8 @@ edition = "2021"
 license = "MIT"
 description = "Compatibility Wrapper for error-stack and rocket"
 readme = "README.md"
-repository = " https://github.com/TheTaktik/rocket_error_stack"
-homepage = " https://github.com/TheTaktik/rocket_error_stack"
+repository = "https://github.com/TheTaktik/rocket_error_stack"
+homepage = "https://github.com/TheTaktik/rocket_error_stack"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
