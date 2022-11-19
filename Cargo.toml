@@ -1,0 +1,16 @@
+[package]
+name = "rocket_error_stack"
+authors = ["TheTaktik <thetaktik@gmx.de>"]
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Compatibility Wrapper for error-stack and rocket"
+readme = "README.md"
+repository = " https://github.com/TheTaktik/rocket_error_stack"
+homepage = " https://github.com/TheTaktik/rocket_error_stack"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rocket = { version = "0.5.0-rc.2" }
+error-stack = "0.2"
