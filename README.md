@@ -51,7 +51,7 @@ impl fmt::Display for SomeError {
     }
 }
 
-impl Context for RequestError {}
+impl Context for SomeError {}
 
 #[get("/")]
 fn get() -> Result<(), SomeError> {
