@@ -11,7 +11,7 @@ rockets [rocket::response::Responder] implemented.
 ```toml
 [dependencies]
 rocket = { version = "0.5.0-rc.2" }
-error-stack = "0.2"
+error-stack = "0.3"
 rocket_error_stack = "0.1"
 ```
 
@@ -24,7 +24,7 @@ define the HTTP response code.
 ## Supported versions
 
 This crate currently supports rocket
-0.5.0-rc.2 and error-stack 0.2.
+0.5.0-rc.2 and error-stack 0.3.
 
 ## Usage
 
